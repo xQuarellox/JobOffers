@@ -3,7 +3,7 @@ The Application That Allows People To Explore Job Offers
 
 # Overview
 <div style="text-align: center;">
-    <img src="./documentation/JobOffers.gif" style="width:auto; height: auto;">
+    <img src="./documentation/Functionallity.gif" style="width:auto; height: auto;">
 </div>
 
 ## Swagger
